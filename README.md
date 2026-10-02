@@ -27,7 +27,7 @@ Please avoid posting private credentials, access tokens, license keys, or sensit
 ## Links
 
 - Website: https://inertiax.dev
-- Documentation: https://inertiax.dev/docs
+- Documentation: https://docs.inertiax.dev
 
 ---
 
